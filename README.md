@@ -7,4 +7,4 @@ These functions apply different types of data transformations to raw data. These
 ## Model Evaluation
 These functions help data scientists build and evaluate models in R. 
 * The model building framework uses several techniques such as simple linear regression, forward stepping, L1 and L2 regularization methods (lasso and ridge regression). 
-* The model evaluation framework uses several techniques such as MSE, model R-squared, and prediction rank R-squared against holdout data.
+* The model evaluation framework uses several techniques such as MSE, model R-squared, residual plot analysis, and prediction rank R-squared against holdout data.
